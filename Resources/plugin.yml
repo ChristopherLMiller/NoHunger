@@ -1,0 +1,5 @@
+name: ${name}
+version: ${project.version}
+author: moose517
+description: ${description}
+main: com.moosemanstudios.NoHunger.NoHunger

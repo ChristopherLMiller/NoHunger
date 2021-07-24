@@ -1,0 +1,5 @@
+name: NoHunger
+version: 1.0
+author: moose517
+description: Don't suffer from hunger
+main: com.moosemanstudios.NoHunger.NoHunger
